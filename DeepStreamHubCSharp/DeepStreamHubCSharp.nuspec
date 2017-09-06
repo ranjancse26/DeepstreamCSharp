@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DeepStreamCSharp</id>
+    <version>1.0.0</version>
+    <authors>Ranjan Dailata</authors>
+    <owners>Ranjan Dailata</owners>
+    <licenseUrl>https://github.com/ranjancse26/KandyCSharp/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/ranjancse26/KandyCSharp</projectUrl>
+    <iconUrl>https://github.com/ranjancse26/KandyCSharp/blob/master/KandyCSharp/icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DeepStream CSharp Library</description>
+    <releaseNotes>Initial version of DeepStreamCSharp 1.0.0</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>DeepStream</tags>
+  </metadata>
+</package>
